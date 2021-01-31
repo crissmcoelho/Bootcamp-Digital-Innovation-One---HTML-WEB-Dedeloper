@@ -1,0 +1,9 @@
+﻿{
+  "name": "an-lise-de-n-meros",
+  "version": "0.0.0",
+  "description": "Análise de Números",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

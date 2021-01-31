@@ -1,0 +1,9 @@
+﻿{
+  "name": "quantidade-de-n-meros-positivos",
+  "version": "0.0.0",
+  "description": "Quantidade de Números Positivos",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

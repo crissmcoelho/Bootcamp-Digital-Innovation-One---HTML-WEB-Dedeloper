@@ -1,0 +1,9 @@
+﻿{
+  "name": "consumo-m-dio-do-autom-vel",
+  "version": "0.0.0",
+  "description": "Consumo Médio do Automóvel",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "name": "contagem-de-c-dulas",
+  "version": "0.0.0",
+  "description": "Contagem de Cédulas",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

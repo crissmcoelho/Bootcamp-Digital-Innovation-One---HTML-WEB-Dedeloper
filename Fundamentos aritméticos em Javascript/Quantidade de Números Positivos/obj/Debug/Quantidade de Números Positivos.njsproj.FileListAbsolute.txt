@@ -1,0 +1,3 @@
+C:\Users\criss\GITHUB\Bootcamp Digital Inovation One\Nova pasta\Fundamentos aritméticos em Javascript\Quantidade de Números Positivos\obj\Debug\Quantidade de Números Positivos.njsprojAssemblyReference.cache
+C:\Users\criss\GITHUB\Bootcamp Digital Inovation One\Nova pasta\Fundamentos aritméticos em Javascript\Quantidade de Números Positivos\obj\Debug\Quantidade de Números Positivos.njsproj.CoreCompileInputs.cache
+C:\Users\criss\GITHUB\Bootcamp Digital Inovation One\Nova pasta\Fundamentos aritméticos em Javascript\Quantidade de Números Positivos\bin\Microsoft.NodejsTools.WebRole.dll
